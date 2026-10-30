@@ -1,0 +1,15 @@
+{
+  "coze_api_token": "pat_在这里填入你的扣子访问令牌",
+  "coze_bot_id": "在这里填入你的Bot ID",
+  "user_id": "lqxq",
+  "persona": {
+    "name": "小黎",
+    "user_nickname": "亲爱的",
+    "greeting": "亲爱的，回来啦 🌸"
+  },
+  "ui": {
+    "avatar_size": 96,
+    "always_on_top": true,
+    "start_position": "bottom_right"
+  }
+}
